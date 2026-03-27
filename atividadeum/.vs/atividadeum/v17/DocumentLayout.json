@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\F40784.FORMACAO\\source\\repos\\atividadeum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5762162A-2DC3-4016-9B29-D9F7B00302B1}|atividadeum\\atividadeum.csproj|c:\\users\\f40784.formacao\\source\\repos\\atividadeum\\atividadeum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5762162A-2DC3-4016-9B29-D9F7B00302B1}|atividadeum\\atividadeum.csproj|solutionrelative:atividadeum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\F40784.FORMACAO\\source\\repos\\atividadeum\\atividadeum\\Program.cs",
+              "RelativeDocumentMoniker": "atividadeum\\Program.cs",
+              "ToolTip": "C:\\Users\\F40784.FORMACAO\\source\\repos\\atividadeum\\atividadeum\\Program.cs",
+              "RelativeToolTip": "atividadeum\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:07:11.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

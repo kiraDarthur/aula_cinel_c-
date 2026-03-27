@@ -1,0 +1,7 @@
+C:\Users\F40784.FORMACAO\source\repos\atividadeoito\atividadeoito\bin\Debug\atividadeoito.exe.config
+C:\Users\F40784.FORMACAO\source\repos\atividadeoito\atividadeoito\bin\Debug\atividadeoito.exe
+C:\Users\F40784.FORMACAO\source\repos\atividadeoito\atividadeoito\bin\Debug\atividadeoito.pdb
+C:\Users\F40784.FORMACAO\source\repos\atividadeoito\atividadeoito\obj\Debug\atividadeoito.csproj.AssemblyReference.cache
+C:\Users\F40784.FORMACAO\source\repos\atividadeoito\atividadeoito\obj\Debug\atividadeoito.csproj.CoreCompileInputs.cache
+C:\Users\F40784.FORMACAO\source\repos\atividadeoito\atividadeoito\obj\Debug\atividadeoito.exe
+C:\Users\F40784.FORMACAO\source\repos\atividadeoito\atividadeoito\obj\Debug\atividadeoito.pdb

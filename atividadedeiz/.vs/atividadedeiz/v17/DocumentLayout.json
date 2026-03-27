@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\F40784.FORMACAO\\source\\repos\\atividadedeiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF412536-4AE0-4E4A-BD9C-8E1A7BA38625}|atividadedeiz\\atividadedeiz.csproj|c:\\users\\f40784.formacao\\source\\repos\\atividadedeiz\\atividadedeiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF412536-4AE0-4E4A-BD9C-8E1A7BA38625}|atividadedeiz\\atividadedeiz.csproj|solutionrelative:atividadedeiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\F40784.FORMACAO\\source\\repos\\atividadedeiz\\atividadedeiz\\Program.cs",
+              "RelativeDocumentMoniker": "atividadedeiz\\Program.cs",
+              "ToolTip": "C:\\Users\\F40784.FORMACAO\\source\\repos\\atividadedeiz\\atividadedeiz\\Program.cs",
+              "RelativeToolTip": "atividadedeiz\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T21:46:04.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
