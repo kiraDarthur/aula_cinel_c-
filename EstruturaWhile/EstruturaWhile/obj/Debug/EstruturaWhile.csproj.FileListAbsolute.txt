@@ -1,0 +1,8 @@
+C:\Users\F40784.FORMACAO\source\repos\EstruturaWhile\EstruturaWhile\bin\Debug\EstruturaWhile.exe.config
+C:\Users\F40784.FORMACAO\source\repos\EstruturaWhile\EstruturaWhile\bin\Debug\EstruturaWhile.exe
+C:\Users\F40784.FORMACAO\source\repos\EstruturaWhile\EstruturaWhile\bin\Debug\EstruturaWhile.pdb
+C:\Users\F40784.FORMACAO\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\EstruturaWhile.csproj.AssemblyReference.cache
+C:\Users\F40784.FORMACAO\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\EstruturaWhile.csproj.CoreCompileInputs.cache
+C:\Users\F40784.FORMACAO\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\EstruturaWhile.exe
+C:\Users\F40784.FORMACAO\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\EstruturaWhile.pdb
+C:\Users\F40784.FORMACAO\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\EstruturaWhile.exe.config

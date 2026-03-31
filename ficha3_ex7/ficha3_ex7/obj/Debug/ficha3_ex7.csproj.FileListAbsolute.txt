@@ -1,0 +1,8 @@
+C:\Users\F40784.FORMACAO\source\repos\ficha3_ex7\ficha3_ex7\obj\Debug\ficha3_ex7.csproj.AssemblyReference.cache
+C:\Users\F40784.FORMACAO\source\repos\ficha3_ex7\ficha3_ex7\obj\Debug\ficha3_ex7.csproj.CoreCompileInputs.cache
+C:\Users\F40784.FORMACAO\source\repos\ficha3_ex7\ficha3_ex7\bin\Debug\ficha3_ex7.exe.config
+C:\Users\F40784.FORMACAO\source\repos\ficha3_ex7\ficha3_ex7\bin\Debug\ficha3_ex7.exe
+C:\Users\F40784.FORMACAO\source\repos\ficha3_ex7\ficha3_ex7\bin\Debug\ficha3_ex7.pdb
+C:\Users\F40784.FORMACAO\source\repos\ficha3_ex7\ficha3_ex7\obj\Debug\ficha3_ex7.exe
+C:\Users\F40784.FORMACAO\source\repos\ficha3_ex7\ficha3_ex7\obj\Debug\ficha3_ex7.pdb
+C:\Users\F40784.FORMACAO\source\repos\ficha3_ex7\ficha3_ex7\obj\Debug\ficha3_ex7.exe.config
