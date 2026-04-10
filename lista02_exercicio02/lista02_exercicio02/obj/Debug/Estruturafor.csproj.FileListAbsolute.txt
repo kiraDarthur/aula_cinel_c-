@@ -1,8 +1,0 @@
-C:\Users\F40784.FORMACAO\source\repos\lista02_exercicio02\lista02_exercicio02\bin\Debug\lista02_exercicio02.exe.config
-C:\Users\F40784.FORMACAO\source\repos\lista02_exercicio02\lista02_exercicio02\bin\Debug\lista02_exercicio02.exe
-C:\Users\F40784.FORMACAO\source\repos\lista02_exercicio02\lista02_exercicio02\bin\Debug\lista02_exercicio02.pdb
-C:\Users\F40784.FORMACAO\source\repos\lista02_exercicio02\lista02_exercicio02\obj\Debug\Estruturafor.csproj.AssemblyReference.cache
-C:\Users\F40784.FORMACAO\source\repos\lista02_exercicio02\lista02_exercicio02\obj\Debug\Estruturafor.csproj.CoreCompileInputs.cache
-C:\Users\F40784.FORMACAO\source\repos\lista02_exercicio02\lista02_exercicio02\obj\Debug\lista02_exercicio02.exe
-C:\Users\F40784.FORMACAO\source\repos\lista02_exercicio02\lista02_exercicio02\obj\Debug\lista02_exercicio02.pdb
-C:\Users\F40784.FORMACAO\source\repos\lista02_exercicio02\lista02_exercicio02\obj\Debug\lista02_exercicio02.exe.config

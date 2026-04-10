@@ -1,8 +1,0 @@
-C:\Users\F40784.FORMACAO\source\repos\fichan3_ex3\fichan3_ex3\obj\Debug\fichan3_ex3.csproj.AssemblyReference.cache
-C:\Users\F40784.FORMACAO\source\repos\fichan3_ex3\fichan3_ex3\obj\Debug\fichan3_ex3.csproj.CoreCompileInputs.cache
-C:\Users\F40784.FORMACAO\source\repos\fichan3_ex3\fichan3_ex3\bin\Debug\fichan3_ex3.exe.config
-C:\Users\F40784.FORMACAO\source\repos\fichan3_ex3\fichan3_ex3\bin\Debug\fichan3_ex3.exe
-C:\Users\F40784.FORMACAO\source\repos\fichan3_ex3\fichan3_ex3\bin\Debug\fichan3_ex3.pdb
-C:\Users\F40784.FORMACAO\source\repos\fichan3_ex3\fichan3_ex3\obj\Debug\fichan3_ex3.exe
-C:\Users\F40784.FORMACAO\source\repos\fichan3_ex3\fichan3_ex3\obj\Debug\fichan3_ex3.pdb
-C:\Users\F40784.FORMACAO\source\repos\fichan3_ex3\fichan3_ex3\obj\Debug\fichan3_ex3.exe.config

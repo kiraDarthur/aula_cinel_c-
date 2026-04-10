@@ -1,8 +1,0 @@
-C:\Users\F40784.FORMACAO\source\repos\atividadeum\atividadeum\bin\Debug\atividadeum.exe.config
-C:\Users\F40784.FORMACAO\source\repos\atividadeum\atividadeum\bin\Debug\atividadeum.exe
-C:\Users\F40784.FORMACAO\source\repos\atividadeum\atividadeum\bin\Debug\atividadeum.pdb
-C:\Users\F40784.FORMACAO\source\repos\atividadeum\atividadeum\obj\Debug\atividadeum.csproj.AssemblyReference.cache
-C:\Users\F40784.FORMACAO\source\repos\atividadeum\atividadeum\obj\Debug\atividadeum.csproj.CoreCompileInputs.cache
-C:\Users\F40784.FORMACAO\source\repos\atividadeum\atividadeum\obj\Debug\atividadeum.exe
-C:\Users\F40784.FORMACAO\source\repos\atividadeum\atividadeum\obj\Debug\atividadeum.pdb
-C:\Users\F40784.FORMACAO\source\repos\atividadeum\atividadeum\obj\Debug\atividadeum.exe.config

@@ -1,8 +1,0 @@
-C:\Users\F40784.FORMACAO\source\repos\atiividadesete\atiividadesete\bin\Debug\atiividadesete.exe.config
-C:\Users\F40784.FORMACAO\source\repos\atiividadesete\atiividadesete\bin\Debug\atiividadesete.exe
-C:\Users\F40784.FORMACAO\source\repos\atiividadesete\atiividadesete\bin\Debug\atiividadesete.pdb
-C:\Users\F40784.FORMACAO\source\repos\atiividadesete\atiividadesete\obj\Debug\atiividadesete.csproj.AssemblyReference.cache
-C:\Users\F40784.FORMACAO\source\repos\atiividadesete\atiividadesete\obj\Debug\atiividadesete.csproj.CoreCompileInputs.cache
-C:\Users\F40784.FORMACAO\source\repos\atiividadesete\atiividadesete\obj\Debug\atiividadesete.exe
-C:\Users\F40784.FORMACAO\source\repos\atiividadesete\atiividadesete\obj\Debug\atiividadesete.pdb
-C:\Users\F40784.FORMACAO\source\repos\atiividadesete\atiividadesete\obj\Debug\atiividadesete.exe.config

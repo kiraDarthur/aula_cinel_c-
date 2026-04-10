@@ -1,7 +1,0 @@
-C:\Users\F40784.FORMACAO\source\repos\EstruturaDoWhile\EstruturaDoWhile\bin\Debug\EstruturaDoWhile.exe.config
-C:\Users\F40784.FORMACAO\source\repos\EstruturaDoWhile\EstruturaDoWhile\bin\Debug\EstruturaDoWhile.exe
-C:\Users\F40784.FORMACAO\source\repos\EstruturaDoWhile\EstruturaDoWhile\bin\Debug\EstruturaDoWhile.pdb
-C:\Users\F40784.FORMACAO\source\repos\EstruturaDoWhile\EstruturaDoWhile\obj\Debug\EstruturaDoWhile.csproj.AssemblyReference.cache
-C:\Users\F40784.FORMACAO\source\repos\EstruturaDoWhile\EstruturaDoWhile\obj\Debug\EstruturaDoWhile.csproj.CoreCompileInputs.cache
-C:\Users\F40784.FORMACAO\source\repos\EstruturaDoWhile\EstruturaDoWhile\obj\Debug\EstruturaDoWhile.exe
-C:\Users\F40784.FORMACAO\source\repos\EstruturaDoWhile\EstruturaDoWhile\obj\Debug\EstruturaDoWhile.pdb

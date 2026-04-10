@@ -1,8 +1,0 @@
-C:\Users\F40784.FORMACAO\source\repos\ficha1\ficha1\bin\Debug\ficha1.exe.config
-C:\Users\F40784.FORMACAO\source\repos\ficha1\ficha1\bin\Debug\ficha1.exe
-C:\Users\F40784.FORMACAO\source\repos\ficha1\ficha1\bin\Debug\ficha1.pdb
-C:\Users\F40784.FORMACAO\source\repos\ficha1\ficha1\obj\Debug\ficha1.csproj.AssemblyReference.cache
-C:\Users\F40784.FORMACAO\source\repos\ficha1\ficha1\obj\Debug\ficha1.csproj.CoreCompileInputs.cache
-C:\Users\F40784.FORMACAO\source\repos\ficha1\ficha1\obj\Debug\ficha1.exe
-C:\Users\F40784.FORMACAO\source\repos\ficha1\ficha1\obj\Debug\ficha1.pdb
-C:\Users\F40784.FORMACAO\source\repos\ficha1\ficha1\obj\Debug\ficha1.exe.config

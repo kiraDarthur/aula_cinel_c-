@@ -1,7 +1,0 @@
-C:\Users\F40784.FORMACAO\source\repos\atividadetres\atividadetres\bin\Debug\atividadetres.exe.config
-C:\Users\F40784.FORMACAO\source\repos\atividadetres\atividadetres\bin\Debug\atividadetres.exe
-C:\Users\F40784.FORMACAO\source\repos\atividadetres\atividadetres\bin\Debug\atividadetres.pdb
-C:\Users\F40784.FORMACAO\source\repos\atividadetres\atividadetres\obj\Debug\atividadetres.csproj.AssemblyReference.cache
-C:\Users\F40784.FORMACAO\source\repos\atividadetres\atividadetres\obj\Debug\atividadetres.csproj.CoreCompileInputs.cache
-C:\Users\F40784.FORMACAO\source\repos\atividadetres\atividadetres\obj\Debug\atividadetres.exe
-C:\Users\F40784.FORMACAO\source\repos\atividadetres\atividadetres\obj\Debug\atividadetres.pdb

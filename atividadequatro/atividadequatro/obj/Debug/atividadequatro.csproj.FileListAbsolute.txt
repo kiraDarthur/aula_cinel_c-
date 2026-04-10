@@ -1,7 +1,0 @@
-C:\Users\F40784.FORMACAO\source\repos\atividadequatro\atividadequatro\bin\Debug\atividadequatro.exe.config
-C:\Users\F40784.FORMACAO\source\repos\atividadequatro\atividadequatro\bin\Debug\atividadequatro.exe
-C:\Users\F40784.FORMACAO\source\repos\atividadequatro\atividadequatro\bin\Debug\atividadequatro.pdb
-C:\Users\F40784.FORMACAO\source\repos\atividadequatro\atividadequatro\obj\Debug\atividadequatro.csproj.AssemblyReference.cache
-C:\Users\F40784.FORMACAO\source\repos\atividadequatro\atividadequatro\obj\Debug\atividadequatro.csproj.CoreCompileInputs.cache
-C:\Users\F40784.FORMACAO\source\repos\atividadequatro\atividadequatro\obj\Debug\atividadequatro.exe
-C:\Users\F40784.FORMACAO\source\repos\atividadequatro\atividadequatro\obj\Debug\atividadequatro.pdb
